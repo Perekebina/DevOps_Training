@@ -2,7 +2,7 @@
 ## Git training
 ### Setting up local and remote repository
 
-** This is an attempt at creating a repository**
+**This is an attempt at creating a repository**
 
 [visit darey.io](https://www.darey.io)
 
